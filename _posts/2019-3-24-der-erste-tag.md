@@ -3,7 +3,7 @@ title: Der erste Tag
 layout: post
 ---
 
-## Heute ist Deutschtag.
+Heute ist Deutschtag.
 
 Ich bin früh aufgestanden, und ich wäre ins Fitnesstudio gegangen, wenn Rob nicht verschlafen hätte. Zufällig ist das meine Ausrede. :-) 
 
