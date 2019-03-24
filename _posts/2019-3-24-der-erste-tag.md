@@ -5,7 +5,7 @@ layout: post
 
 Heute ist Deutschtag. Ich bin früh aufgestanden, und ich wäre ins Fitnesstudio gegangen, wenn Rob nicht verschlafen hätte. Jedenfalls ist das meine Ausrede. :-) 
 
-Um Nachmittag sehe ich 'nen Film mit Max und Bill. Er ist ein Horrorfilm beim Director von "Get Out". Heike trifft sich heute mit einer Freundin von ihm. Vielleicht sehe ich ihn später.
+Um Nachmittag sehe ich 'nen Film mit Max und Bill. Er ist ein Horrorfilm beim Director von "Get Out". Heiko trifft sich heute mit einer Freundin von ihm. Vielleicht sehe ich ihn später.
 
 ![Südstern Friedhof](/images/sudstern-friedhof.jpg)
 
