@@ -4,7 +4,7 @@ layout: default
 
 <div class="posts">
   {% for post in site.posts %}
-    <article class="post">
+    <div class="post">
 
       <div class="title-row">
         <div class="teaser">
@@ -19,11 +19,12 @@ layout: default
         </div>
         {% endif %}
 
-      <div class="entry">
-        {{ post.excerpt }}
-      </div>
+        <div class="entry">
+          {{ post.excerpt }}
+        </div>
 
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Weiter&hellip;</a>
-    </article>
+        <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Weiter&hellip;</a>
+      </div>
+    </div>
   {% endfor %}
 </div>
