@@ -1,6 +1,7 @@
 ---
 title: "Der Film \"Wir\""
 layout: post
+thumbnail: /images/madonna-stamps.jpg
 ---
 
 Normalerweise arbeite ich nur 4 Tage pro Woche. Trotzdem musste ich gestern arbeiten, denn letzte Woche habe ich gar nichts angefertigt! Ups. Und es gibt morgen eine Besprechung mit meinem Chef, um meinen Fortschritt zu überprüfen. Doppel Ups.

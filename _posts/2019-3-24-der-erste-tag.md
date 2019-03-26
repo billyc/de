@@ -1,6 +1,7 @@
 ---
 title: Der erste Tag
 layout: post
+thumbnail: /images/sudstern-friedhof.jpg
 ---
 
 Heute ist Deutschtag. Ich bin früh aufgestanden, und ich wäre ins Fitnesstudio gegangen, wenn Rob nicht verschlafen hätte. Jedenfalls ist das meine Ausrede. :-)

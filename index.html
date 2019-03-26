@@ -6,7 +6,18 @@ layout: default
   {% for post in site.posts %}
     <article class="post">
 
-      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+      <div class="title-row">
+        <div class="teaser">
+          <h1><a style="vertical-align:top" href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+        </div>
+
+        {% if post.thumbnail %}
+        <div class="thumbnail">
+          <a href="{{ site.baseurl }}{{ post.url }}">
+            <img style="float:left; height:10rem; margin:0rem 1rem 0.5rem 0rem" src="{{post.thumbnail}}" />
+          </a>
+        </div>
+        {% endif %}
 
       <div class="entry">
         {{ post.excerpt }}
