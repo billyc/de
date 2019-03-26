@@ -5,7 +5,7 @@ layout: post
 
 Normalerweise arbeite ich nur 4 Tage pro Woche. Trotzdem musste ich gestern arbeiten, denn letzte Woche habe ich gar nichts angefertigt! Ups. Und es gibt morgen eine Besprechung mit meinem Chef, um meinen Fortschritt zu überprüfen. Doppel Ups.
 
-Der Film "Wir" war ganz gut, außer das Ende. Ich war dafür bereit, ein Twist zu erleben, aber das Twist war ganz ganz zu ungläublich. Trotzem empfehle ich es; wir haben Spaß gehabt.
+Der Film "Wir" war ganz gut, außer des Endes. Ich war dafür bereit, ein Twist zu erleben, aber das Twist war ganz ganz zu ungläublich. Trotzem empfehle ich es; wir haben Spaß gehabt.
 
 ![Madonna von Stempel](/images/madonna-stamps.jpg)
 
