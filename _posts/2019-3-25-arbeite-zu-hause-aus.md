@@ -10,7 +10,7 @@ Der Film "Wir" war ganz gut, außer das Ende. Ich war auf einen Twist vorbereite
 
 ![Madonna von Stempel](/images/madonna-stamps.jpg)
 
-Nach dem Film haben wir Kaffee und Kuchen in Westberlin genommen. Das Café war soooo Westberlin: im 80'er Stil eingerichtet, auch mit unhöflichen Kellnerinnen aus dem 80'ern. Aber sie waren so unhöflich, dass es lustig war. Es ist mir egal, kein Trinkgeld zu geben, wenn die Bewirtung so schlimm ist.
+Nach dem Film haben wir in Westberlin Kaffee getrunken und Kuchen gegessen (Was ist Kaffee ohne Kuchen?) Das Café war soooo Westberlin: im 80'er Stil eingerichtet, auch mit unhöflichen Kellnerinnen aus dem 80'ern. Aber sie waren so unhöflich, dass es lustig war. Es ist mir egal, kein Trinkgeld zu geben, wenn die Bewirtung so schlimm ist.
 
 ![Broken brake cable](/images/brake-cable.jpg)
 
