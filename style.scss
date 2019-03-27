@@ -118,6 +118,7 @@ img {
 .date {
   font-style: italic;
   color: $gray;
+  text-align: right;
 }
 
 // Specify the color of the selection
@@ -295,6 +296,12 @@ article img {
   padding-bottom: 2rem;
 }
 
+.thumbnail img {
+  border-radius: 5px;
+  float:left;
+  width:8rem;
+  margin:0.25rem 1rem 0.5rem 0rem;
+}
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
