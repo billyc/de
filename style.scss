@@ -292,16 +292,49 @@ footer {
 }
 
 article img {
-  padding-top: 2rem;
-  padding-bottom: 2rem;
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+  border-radius: 8px;
+  box-shadow: 0px 2px 4px #aaa;
+}
+
+.thumbnail {
+  width: 8rem;
+  grid-column: 1 / 2;
+  margin-right: 1.5rem;
 }
 
 .thumbnail img {
   border-radius: 5px;
-  float:left;
-  width:8rem;
   margin:0.25rem 1rem 0.5rem 0rem;
 }
+
+.post-title {
+  margin-bottom: 0.5rem;
+}
+
+.pic-row {
+  display: inline-grid;
+}
+
+.vert-layout {
+  grid-column: 2 / 3;
+  display: flex;
+  flex-direction: column;
+}
+
+.post-thumbnail img {
+  width: 8rem;
+}
+
+.entry p {
+  margin-top: 0px;
+}
+
+.excerpt {
+  color: $darkGray;
+}
+
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
