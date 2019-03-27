@@ -14,7 +14,7 @@ Endlich habe ich "Newbie Insel" entkommen! Und zwar habe ich heute das Ergebnis 
 
 ![B2 Ergebnisse](/images/b2-prufung.jpg)
 
-Ich war überrascht, weil ich 75 /75 Punkte im Mündliche Teil bekommen habe, wohingegen mein Brief scheinbar ziemlich schlimm war.
+Ich war überrascht, weil ich 75 /75 Punkte im Mündlichen Teil bekommen habe, wohingegen mein Brief scheinbar ziemlich schlimm war.
 
 Aber es ist mir egal: Es ist vorbei, ich habe es bestanden, und ich bin nicht mehr auf NEWBIE INSEL.
 
