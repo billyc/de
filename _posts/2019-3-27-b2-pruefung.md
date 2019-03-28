@@ -4,7 +4,7 @@ layout: post
 thumbnail: /images/newbie-island.jpg
 ---
 
-Endlich habe ich "Newbie Insel" entkommen! Und zwar habe ich heute das Ergebnis von der Deutsch B2 Prüfung bekommen.
+Endlich bin ich "Newbie Insel" entkommen! Und zwar habe ich heute das Ergebnis von der Deutsch B2 Prüfung bekommen.
 
 ![Escape from Newbie Island](/images/newbie-island.jpg)
 
