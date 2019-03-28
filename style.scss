@@ -18,7 +18,7 @@ html {
 }
 
 body {
-	background: $white;
+  background: $white;
   font: 18px/1.4 Raleway, $helveticaNeue;
   color: $darkGray;
 }
@@ -30,8 +30,13 @@ body {
   width: 100%;
 }
 
-h1, h2, h3, h4, h5, h6 {
-  font-family: Raleway,$helveticaNeue;
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: Raleway, $helveticaNeue;
   color: #35a;
   font-weight: bold;
 
@@ -71,13 +76,15 @@ p {
 a {
   color: $blue;
   text-decoration: none;
-	cursor: pointer;
-  &:hover, &:active {
+  cursor: pointer;
+  &:hover,
+  &:active {
     color: $blue;
   }
 }
 
-ul, ol {
+ul,
+ol {
   margin: 15px 0;
   padding-left: 30px;
 }
@@ -90,19 +97,25 @@ ol {
   list-style-type: decimal;
 }
 
-ol ul, ul ol, ul ul, ol ol {
+ol ul,
+ul ol,
+ul ul,
+ol ol {
   margin: 0;
 }
 
-ul ul, ol ul {
+ul ul,
+ol ul {
   list-style-type: circle;
 }
 
-em, i {
+em,
+i {
   font-style: italic;
 }
 
-strong, b {
+strong,
+b {
   font-weight: bold;
 }
 
@@ -119,6 +132,8 @@ img {
   font-style: italic;
   color: $gray;
   text-align: right;
+  margin-bottom: 1rem;
+  margin-top: -1rem;
 }
 
 // Specify the color of the selection
@@ -135,12 +150,12 @@ img {
 // http://nicolasgallagher.com/micro-clearfix-hack/
 .clearfix:before,
 .clearfix:after {
-    content: " ";
-    display: table;
+  content: " ";
+  display: table;
 }
 
 .clearfix:after {
-    clear: both;
+  clear: both;
 }
 
 /*********************/
@@ -195,7 +210,7 @@ img {
   margin: 0;
   color: #35a;
   cursor: pointer;
-  font-family: Raleway,$helveticaNeue;
+  font-family: Raleway, $helveticaNeue;
   font-weight: 700;
   font-size: 28px;
   letter-spacing: 1px;
@@ -214,7 +229,7 @@ img {
 nav {
   float: right;
   margin-top: 23px; // @TODO: Vertically middle align
-  font-family: Raleway,$helveticaNeue;
+  font-family: Raleway, $helveticaNeue;
   font-size: 18px;
 
   @include mobile {
@@ -254,7 +269,7 @@ nav {
 
 .post {
   blockquote {
-    margin: 1.8em .8em;
+    margin: 1.8em 0.8em;
     border-left: 2px solid $gray;
     padding: 0.1em 1em;
     color: $gray;
@@ -269,6 +284,13 @@ nav {
   .read-more {
     text-transform: uppercase;
     font-size: 15px;
+  }
+
+  .timestamp {
+    text-transform: uppercase;
+    font-size: 15px;
+    text-align: right;
+    margin-top: -22px;
   }
 }
 
@@ -299,14 +321,14 @@ article img {
 }
 
 .thumbnail {
-  width: 8rem;
+  width: 7rem;
   grid-column: 1 / 2;
   margin-right: 1.5rem;
 }
 
 .thumbnail img {
   border-radius: 5px;
-  margin:0.25rem 1rem 0.5rem 0rem;
+  margin: 0.25rem 1rem 0.5rem 0rem;
 }
 
 .post-title {
@@ -335,6 +357,9 @@ article img {
   color: $darkGray;
 }
 
+.excerpt:hover {
+  color: $darkGray;
+}
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start

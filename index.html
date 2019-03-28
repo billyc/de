@@ -4,30 +4,35 @@ layout: default
 
 <div class="posts">
   {% for post in site.posts %}
-    <div class="post">
+  <div class="post">
+    <div class="teaser">
+      <h1 class="post-title">
+        <a href="{{ site.baseurl }}{{ post.url }}"> {{ post.title }} </a>
+      </h1>
+    </div>
 
-      <div class="teaser">
-        <h1 class="post-title"><a href="{{ site.baseurl }}{{ post.url }}"> {{ post.title }} </a></h1>
+    <div class="pic-row">
+      {% if post.thumbnail %}
+      <div class="thumbnail">
+        <a href="{{ site.baseurl }}{{ post.url }}">
+          <img class="post-thumbnail" src="{{ post.thumbnail }}" />
+        </a>
       </div>
+      {% endif %}
 
-      <div class="pic-row">
-
-        {% if post.thumbnail %}
-        <div class="thumbnail">
-          <a href="{{ site.baseurl }}{{ post.url }}">
-            <img class="post-thumbnail" src="{{post.thumbnail}}" />
+      <div class="vert-layout">
+        <div class="entry">
+          <a class="excerpt" href="{{ site.baseurl }}{{ post.url }}">
+            {{ post.excerpt }}
           </a>
         </div>
-        {% endif %}
-
-        <div class="vert-layout">
-          <div class="entry">
-            <a class="excerpt" href="{{ site.baseurl }}{{ post.url }}"> {{ post.excerpt }} </a>
-          </div>
-          <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Weiter&hellip;</a>
+        <div>
+          <a href="{{ site.baseurl }}{{ post.url }}" class="read-more"
+            >Weiter&hellip;</a
+          >
         </div>
       </div>
-
     </div>
+  </div>
   {% endfor %}
 </div>
