@@ -7,15 +7,20 @@
 
     <link href="https://fonts.googleapis.com/css?family=Raleway:400,400i,700,700i" rel="stylesheet">
 
-    <meta name="author" content="{{ site.name }}" />
+    <meta name="site_name" content="{{ site.name }}" />
+    <meta name="author" content="{{ site.author }}" />
+
     {% if page.title %}
     <meta property="og:title" content="{{ page.title }}" />
     <meta property="twitter:title" content="{{ page.title }}" />
     {% endif %}
+
     {% if page.thumbnail %}
     <meta property="og:image" content="{{ site.url }}/{{ page.thumbnail }}" />
     <meta property="twitter:image" content="{{ site.url }}/{{ page.thumbnail }}" />
-    {% endif %}    {% if page.excerpt %}
+    {% endif %}
+
+    {% if page.excerpt %}
     <meta name="description" content="{{ page.excerpt| strip_html }}" />
     <meta property="og:description" content="{{ page.excerpt| strip_html }}" />
     {% else %}
