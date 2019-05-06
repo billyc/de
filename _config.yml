@@ -4,6 +4,7 @@
 
 # Name of your site (displayed in the header)
 name: Tagebuch
+author: Tagebuch
 
 # Short bio or description (displayed in the header)
 description: Mein deutsches Tagebuch
@@ -40,7 +41,7 @@ google_analytics:
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url:
+url: https://billyc.github.io
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
