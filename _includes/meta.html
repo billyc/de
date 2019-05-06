@@ -10,6 +10,10 @@
     <meta name="site_name" content="{{ site.name }}" />
     <meta name="author" content="{{ site.author }}" />
 
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:site" content="https://billyc.github.io" />
+    <meta name="twitter:creator" content="@billyinberlin" />
+
     {% if page.title %}
     <meta property="og:title" content="{{ page.title }}" />
     <meta property="twitter:title" content="{{ page.title }}" />
@@ -23,7 +27,9 @@
     {% if page.excerpt %}
     <meta name="description" content="{{ page.excerpt| strip_html }}" />
     <meta property="og:description" content="{{ page.excerpt| strip_html }}" />
+    <meta property="twitter:description" content="{{ page.excerpt| strip_html }}" />
     {% else %}
     <meta name="description" content="{{ site.description }}">
     <meta property="og:description" content="{{ site.description }}" />
+    <meta property="twitter:description" content="{{ site.description }}" />
     {% endif %}
