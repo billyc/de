@@ -4,7 +4,7 @@ layout: post
 thumbnail: /images/2019/oktoberfest-1.jpg
 ---
 
-Oktoberfest! Meine erste Reise nach München nach 15 Jahre. Letztes Mal war ich mit meinem Ex-Mann,
+Oktoberfest! Meine erste Reise nach München seit 15 Jahre. Letztes Mal war ich mit meinem Ex-Mann,
 der mit einer merkwürdigen Faszinierung von katholischen Reliquiaren hatte. Also haben wir letzten Mal
 jede Kirche in der Altstadt besucht.
 
