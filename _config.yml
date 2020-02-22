@@ -3,11 +3,11 @@
 #
 
 # Name of your site (displayed in the header)
-name: Tagebuch
+name: Billy Charlton
 author: Billy Charlton
 
 # Short bio or description (displayed in the header)
-description: Mein deutsches Tagebuch
+description: "Your local full-stack tech nerd and transportation expert."
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://avatars2.githubusercontent.com/u/1427526?s=460&v=4
@@ -73,7 +73,7 @@ sass:
   style: :expanded # You might prefer to minify using :compressed
 
 # Use the following plug-ins
-plugins:
+plugins_dir:
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
   - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
 
