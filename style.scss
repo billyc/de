@@ -18,9 +18,9 @@ html {
 }
 
 body {
-  background: $white;
-  font: 18px/1.4 Raleway, $helveticaNeue;
-  color: $darkGray;
+  background: $darkerGray;
+  font: 18px/1.4 $helveticaNeue;
+  color: $lightGray;
 }
 
 .container {
@@ -36,8 +36,8 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: Raleway, $helveticaNeue;
-  color: #35a;
+  font-family: $raleway;
+  color: $blue;
   font-weight: bold;
 
   line-height: 1.7;
@@ -74,12 +74,12 @@ p {
 }
 
 a {
-  color: $blue;
+  color: $yellow;
   text-decoration: none;
   cursor: pointer;
   &:hover,
   &:active {
-    color: $blue;
+    color: $myHover;
   }
 }
 
@@ -172,7 +172,7 @@ img {
 
 .masthead {
   padding: 20px 0;
-  border-bottom: 1px solid $lightGray;
+  border-bottom: 1px solid $darkGray;
 
   @include mobile {
     text-align: center;
@@ -208,9 +208,9 @@ img {
 
 .site-name {
   margin: 0;
-  color: #35a;
+  color: $blue;
   cursor: pointer;
-  font-family: Raleway, $helveticaNeue;
+  font-family: $raleway;
   font-weight: 700;
   font-size: 28px;
   letter-spacing: 1px;
@@ -229,7 +229,7 @@ img {
 nav {
   float: right;
   margin-top: 23px; // @TODO: Vertically middle align
-  font-family: Raleway, $helveticaNeue;
+  font-family: $raleway;
   font-size: 18px;
 
   @include mobile {
@@ -241,7 +241,7 @@ nav {
 
   a {
     margin-left: 20px;
-    color: $darkGray;
+    color: $blue;
     text-align: right;
     font-weight: 300;
     letter-spacing: 1px;
@@ -251,6 +251,7 @@ nav {
       color: $blue;
     }
   }
+  a:hover { color: $myHover; }
 }
 
 //
@@ -259,7 +260,7 @@ nav {
 
 .posts > .post {
   padding-bottom: 2em;
-  border-bottom: 1px solid $lightGray;
+  border-bottom: 1px solid $darkGray;
 }
 
 .posts > .post:last-child {
@@ -296,9 +297,9 @@ nav {
 
 .wrapper-footer {
   margin-top: 50px;
-  border-top: 1px solid #ddd;
-  border-bottom: 1px solid #ddd;
-  background-color: $lightGray;
+  border-top: 1px solid $darkGray;
+  border-bottom: 1px solid $darkGray;
+  background-color: #3a3a3a;
 }
 
 footer {
@@ -314,8 +315,8 @@ footer {
 }
 
 article img {
-  margin-top: 2rem;
-  margin-bottom: 2rem;
+  margin-top: 3rem;
+  margin-bottom: 3rem;
   border-radius: 8px;
   box-shadow: 0px 2px 4px #aaa;
 }
@@ -354,11 +355,11 @@ article img {
 }
 
 .excerpt {
-  color: $darkGray;
+  color: $gray;
 }
 
 .excerpt:hover {
-  color: $darkGray;
+  color: $gray;
 }
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
