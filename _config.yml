@@ -7,7 +7,7 @@ name: Billy Charlton
 author: Billy Charlton
 
 # Short bio or description (displayed in the header)
-description: "Your local full-stack tech nerd and transportation expert."
+description: "Your local full-stack tech nerd and transport expert."
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://avatars2.githubusercontent.com/u/1427526?s=460&v=4
@@ -24,7 +24,7 @@ footer-links:
   flickr:
   github: billyc
   instagram:
-  linkedin:
+  linkedin: billy-charlton
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter: billyinberlin
