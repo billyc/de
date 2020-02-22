@@ -6,13 +6,13 @@ Hi there! This is my personal collection of thoughts on topics I find interestin
 
 ### About me
 
-My current research position at [Technische Universität Berlin](https://vsp.tu-berlin.de) focuses on data visualization for the [MATSim transport simulation framework](https://matsim.org). MATSim is currently getting a lot of attention for its ability to simulate traffic scenarios for the impending doomsday arrival of fleets of robot cars.
+I am a researcher at [Technische Universität Berlin](https://vsp.tu-berlin.de) focusing on data visualization for the [MATSim transport simulation framework](https://matsim.org). MATSim is currently getting a lot of attention for its ability to simulate traffic scenarios for the impending doomsday arrival of fleets of robot cars.
 
-Formerly I was the Director of Data at the [Puget Sound Regional Council](https://www.psrc.org) in Seattle, Washington. Our team managed all travel forecasting and land use / growth management in support of the Seattle metropolitan region's planning goals.
+Formerly I was Director of Data for the [Puget Sound Regional Council](https://www.psrc.org) in Seattle, USA. Our 22-person team managed all travel forecasting and land use / growth management in support of the Seattle metropolitan region's planning goals.
 
 I am always looking for new interesting projects! Find me on twitter at [@billyinberlin](https://twitter.com/billyinberlin) or on [LinkedIn](https://linkedin.com/in/billy-charlton).
 
-# Recent posts
+# Latest posts
 
 ---
 
