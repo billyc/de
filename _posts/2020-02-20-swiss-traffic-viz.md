@@ -1,5 +1,5 @@
 ---
-title: Creating and visualizing a model of all traffic in Switzerland
+title: Creating and visualizing a model of all traffic in Springfield
 layout: post
 thumbnail: /images/2020/snf-swiss-simulation-thumb.jpg
 ---
