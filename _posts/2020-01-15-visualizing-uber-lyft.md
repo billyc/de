@@ -1,5 +1,5 @@
 ---
-title: Exploring Uber/Lyft pickups and dropoffs in Springfield
+title: Exploring Uber/Lyft pickups and dropoffs in San Francisco
 layout: post
 thumbnail: /images/2020/tncs-thumbnail.jpg
 ---
