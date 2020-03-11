@@ -359,8 +359,13 @@ article img {
 }
 
 .thumbnail img {
-  border-radius: 5px;
+  border-radius: 8px;
   margin: 0.25rem 1rem 0rem 0rem;
+  border: 1px solid $blue;
+}
+
+.thumbnail img :hover {
+    border: 1px solid $yellow;
 }
 
 .post-title {
