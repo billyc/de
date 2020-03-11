@@ -3,13 +3,14 @@
 #
 
 # Name of your site (displayed in the header)
-name: City of Springfield
-author: Transportation Department
+name: Billy Charlton
+author: Billy Charlton
 
 # Short bio or description (displayed in the header)
-description: "Getting you there."
+description: "Your local full-stack tech nerd and transport expert."
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
+avatar: https://avatars2.githubusercontent.com/u/1427526?s=460&v=4
 
 #
 # Flags below are optional
@@ -25,8 +26,8 @@ footer-links:
   instagram:
   linkedin: billy-charlton
   pinterest:
+  rss: # just type anything here for a working RSS icon
   twitter: billyinberlin
-  rss: yes # just type anything here for a working RSS icon
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
 
@@ -40,7 +41,7 @@ google_analytics:
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url: https://springfield.io
+url: https://billyc.github.io
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
@@ -69,7 +70,7 @@ kramdown:
 
 # Set the Sass partials directory, as we're using @imports
 sass:
-  style: :compressed # :expanded, or You might prefer to minify using :compressed
+  style: :expanded # You might prefer to minify using :compressed
 
 # Use the following plug-ins
 plugins_dir:

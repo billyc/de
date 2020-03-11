@@ -8,7 +8,7 @@ I was working with the San Francisco County Transportation Authority on some oth
 
 For the full blog entry on this topic, **check out my [Medium post](https://medium.com/hackernoon/visualizing-uber-and-lyft-usage-in-san-francisco-928208b1978a).**
 
-The [SFCTA](https://www.sfcta.org) is at the forefront of research on the impact "ridesharing" services such as Uber and Lyft are having on our most congested cities. These services, referred to as "Transportation Network Companies" or TNC's by urban planners, often don't share much data with public agencies. The following data was an exciting first.
+The [SFCTA](https://www.sfcta.org) is at the forefront of research on the impact "ridesharing" services such as Uber and Lyftare having on our most congested cities. These services, referred to as "Transportation Network Companies" or TNC's by urban planners, often don't share much data with public agencies. The following data was an exciting first.
 
 ### The "TNCs Today" data explorer
 
