@@ -41,7 +41,7 @@
         size: 1,
       },
       tags: {
-        size: 10,
+        size: 7,
       },
       type: {
         size: 5,

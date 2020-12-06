@@ -14,6 +14,6 @@ tags:
   - Bicycles
   - Smartphones
 tweet:
-venue: Transportation Research Board 90th Annual Meeting, Jan. 23-27,
+venue: Transportation Research Board 90th Annual Meeting
 year: 2011
 ---

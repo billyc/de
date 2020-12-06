@@ -17,6 +17,6 @@ tags:
   - Travel Modeling
 tweet:
 venue_tags: Journal of Transport and Land Use
-venue: "Journal of Transport and Land Use 3.2: pp. 65-84."
+venue: "Journal of Transport and Land Use 3.2"
 year: 2010
 ---

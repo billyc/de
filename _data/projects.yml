@@ -4,7 +4,7 @@
   paper: https://svn.vsp.tu-berlin.de/repos/public-svn/publications/vspwp/2020/20-08/CharltonLaudan2020WebBasedVisualization-accepted.pdf
   image: aftersim.png
   description: "I built the AfterSim web-based data visualization platform for examining outputs from MATSim and other large transport simulations."
-  highlight: 1
+  highlight: 2
 
 - title: COVID-Sim
   url: https://covid-sim.info
@@ -13,7 +13,7 @@
   paper: https://www.medrxiv.org/content/10.1101/2020.07.22.20160093v2.full.pdf
   image: covid-sim.png
   description: "Interactive visualizations of virus spreading through Berlin, plus dashboards for comparing results of hundreds of EpiSim simulations."
-  highlight: 2
+  highlight: 1
 
 - title: Zephyr
   url: https://zephyrtransport.org
@@ -27,7 +27,7 @@
   demo: https://avoev-vsp.github.io/v/vehicle-animation/vulkaneifel/output-Vu-DRT-2/viz-vehicles.yml
   image: avoev.png
   description: "AVÖV (Demand Responsive Transit in German) - built website and data visualizations for exploring potential to serve rural transit trips with shared autonomous taxis (in German)"
-  highlight: 3
+  highlight: 5
 
 - title: "TNCs Today in SF"
   url: https://www.sfcta.org/projects/tncs-today

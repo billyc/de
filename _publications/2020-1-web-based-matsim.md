@@ -15,7 +15,7 @@ tags:
   - Data Visualization
 tweet:
 venue_tags: Transportation Research Record
-venue: "Transportation Research Record 2674.10, pp. 124-133."
+venue: "Transportation Research Record 2674.10"
 year: 2020
 highlight: 1
 ---

@@ -16,7 +16,7 @@ tags:
   - Travel Modeling
 #tweet:
 venue_tags: Transportation Letters
-venue: Transportation Letters 3, no. 1, pp. 63-75.
+venue: Transportation Letters 3, no. 1
 year: 2011
 highlight: 3
 ---

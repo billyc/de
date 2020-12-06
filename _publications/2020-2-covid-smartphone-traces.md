@@ -16,7 +16,7 @@ tags:
   - MATSim
   - EpiSim
   - Smartphones
-tweet: "Using mobile phone data for epidemiological simulations of lockdowns"
+# tweet: "Using mobile phone data for epidemiological simulations of lockdowns"
 venue_tags: medRxiv
 venue: "medRxiv"
 year: 2020

@@ -15,6 +15,6 @@ tags:
   - Travel Modeling
 tweet:
 venue_tags: Transportation Research Record
-venue: "Transportation Research Record 1981.1, pp. 24-33."
+venue: "Transportation Research Record 1981.1"
 year: 2006
 ---
