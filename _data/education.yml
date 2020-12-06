@@ -1,0 +1,14 @@
+- university: Northwestern University
+  years: 1996
+  degree: M.S. in Civil Engineering
+  location: Evanston, IL
+  description:
+    - Advised by **Joseph Schofer** and **Frank Koppelman**.
+    - 'Thesis: "amiliar Driver Response to In-Vehicle Route Guidance Systems"'
+- university: Cornell University
+  years: 1991
+  degree: B.S. in Civil Engineering
+  location: Ithaca, NY
+  description:
+    - Transportation Engineering focus
+    - Received the 1991 Crandall Award for Writing in Engineering

@@ -1,0 +1,9 @@
+<div class="project">
+  <span class="title">{{ blog.title }}</span>
+  <a href="{{ blog.url }}">
+    <div class="preview-image" style="background-image: url('{{ blog.thumbnail | relative_url }}')"></div>
+  </a>
+  <p>
+    {{ blog.description | markdownify | remove: '<p>' | remove: '</p>' }}
+  </p>
+</div>

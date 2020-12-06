@@ -1,0 +1,11 @@
+/* TEAM */
+	Author: Billy Charlton
+	Based-On: Dominik Moritz personal blog, https://www.domoritz.de
+	Twitter: @billyinberlin
+	From: Berlin, Germany
+
+/* SITE */
+	Language: English
+	Doctype: HTML5
+	IDE: VIM, VSCode
+	Software: Jekyll
