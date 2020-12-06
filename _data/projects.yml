@@ -37,6 +37,14 @@
   description: "Visualization of Uber and Lyft pickups/dropoffs in San Francisco, part of a larger effort to understand the impacts of shared mobility on SF Streets."
   highlight: 4
 
+- title: SNF Swiss Traffic Model
+  url: https://vsp-snf.surge.sh/
+  demo: https://vsp-snf.surge.sh/
+  code: https://gitlab.tubit.tu-berlin.de/vsp/snf-big-data
+  paper: https://svn.vsp.tu-berlin.de/repos/public-svn/publications/vspwp/2020/20-11/ZiemkeEtAl2020ActitoppMatsim.pdf
+  image: snf-swiss-simulation.jpg
+  description: "A demonstration of building a very large traffic simulation model based on mobile phone records and census data."
+
 - title: "OMX"
   url: https://github.com/osPlanning/omx
   image: omx.jpg
