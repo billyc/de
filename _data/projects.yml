@@ -26,7 +26,7 @@
   code: https://github.com/avoev-vsp/avoev.github.io
   demo: https://avoev-vsp.github.io/v/vehicle-animation/vulkaneifel/output-Vu-DRT-2/viz-vehicles.yml
   image: avoev.png
-  description: "AVÖV (Demand Responsive Transit in German) - built website and data visualizations for exploring potential to serve rural transit trips with shared autonomous taxis (in German)"
+  description: "AVÖV (Demand Responsive Transit in German) - built website and data visualizations for exploring potential to serve rural transit trips with shared autonomous taxis (site in German)"
   highlight: 5
 
 - title: "TNCs Today in SF"
@@ -44,6 +44,17 @@
   paper: https://svn.vsp.tu-berlin.de/repos/public-svn/publications/vspwp/2020/20-11/ZiemkeEtAl2020ActitoppMatsim.pdf
   image: snf-swiss-simulation.jpg
   description: "A demonstration of building a very large traffic simulation model based on mobile phone records and census data."
+
+- title: "MyStreet SF"
+  url: https://mystreetsf.sfcta.org/#filter=7&zoom=13.25&center=37.765,-122.438
+  code: https://github.com/sfcta/MyStreetSF-2.0
+  image: mystreet-grid.jpg
+  description: "Created an interactive map and project website for all projects and studies funded by SFCTA in San Francisco"
+
+- title: "EN/DE/TR Keyboard"
+  url: https://billyc.github.io/en-de-tr-keyboard/
+  image: keyboard.png
+  description: "Created a keyboard layout for typing English, German, and Turkish simultaneously. For Windows and Linux."
 
 - title: "OMX"
   url: https://github.com/osPlanning/omx
