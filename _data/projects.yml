@@ -1,9 +1,9 @@
-- title: AfterSim
+- title: aftersim
   url: https://aftersim.github.io
   code: https://github.com/aftersim/aftersim.github.io
   paper: https://svn.vsp.tu-berlin.de/repos/public-svn/publications/vspwp/2020/20-08/CharltonLaudan2020WebBasedVisualization-accepted.pdf
   image: aftersim.png
-  description: "I built the AfterSim web-based data visualization platform for examining outputs from MATSim and other large transport simulations."
+  description: "I built the _aftersim_ web-based data visualization platform for examining outputs from MATSim and other large transport simulations."
   highlight: 2
 
 - title: COVID-Sim
