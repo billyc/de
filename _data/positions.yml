@@ -1,70 +1,70 @@
-- title: Scientific Researcher
-  years: 2017-present
+- title: Wissenschaftlicher Mitarbeiter
+  years: 2017-
   company: Technische Universität Berlin
-  group: Transport Systems Planning and Transport Telematics
-  location: Berlin, Germany
+  group: Verkehrssystemplanung und Verkehrstelematik
+  location: Berlin, Deutschland
   mentors:
     - Kai Nagel
-  description: Building web-based data visualization tools for the MATSim agent-based transport simulation framework.
-  project: MATSim, AfterSim, EpiSim
+  description: Entwicklung von webbasierten Datenvisualisierungswerkzeugen für das agentenbasierte Verkehrssimulationsprogramm MATSim.
+  project: MATSim, EpiSim, SimWrapper
   skills:
     - Scalable Visualization
     - JavaScript, Python, R, Java
     - ThreeJS, Deck.gl
-    - UX
+    - User Interface Design
 
-- title: Director of Data
+- title: Direktor der Datenabteilung
   years: 2013-2017
   company: Puget Sound Regional Council
   group: Data Department
   location: Seattle
-  description: Led 22-person team responsible for all technical details of travel modeling, land use modeling, and geographic information systems (GIS) in support of the Seattle metropolitan region's future growth plans.
+  description: Leitete ein 22-köpfiges Team, das für alle technischen Details der Reisemodellierung, Flächennutzungsmodellierung und geografischen Informationssysteme (GIS) zur Unterstützung der zukünftigen Wachstumspläne der Metropolregion Seattle verantwortlich war..
   project: SoundCast, UrbanSim
   skills:
     - Managing team of 22 to time and budget
     - Activity-based travel model development
     - Government service and public outreach
 
-- title: Founder and CEO
+- title: Gründer and CEO
   years: 2011-present
   company: Because LLC
   location: San Francisco, Seattle
-  description: Private boutique consulting for private firms and government agencies needing expertise in web-based data visualization, travel demand modeling, and software development. Clients include Sidewalk Labs, San Francisco County Transportation Authority, NACTO, WSP Inc., others.
+  description: Private Boutique-Beratung für Privatunternehmen und Regierungsbehörden, die Fachwissen in den Bereichen webbasierte Datenvisualisierung, Reisebedarfsmodellierung und Softwareentwicklung benötigen. Zu den Kunden gehören Sidewalk Labs, San Francisco County Transportation Authority, National Association of City Transportation Officials, WSP Inc. und andere.
   project: TNCs Today, MyStreetSF
   skills:
-    - Web-based data visualization
+    - Webbasierte Datenvisualisierung
     - Javascript, PostGIS
 
 - title: Deputy Director for Technology Services
   years: 2007-2011
   company: San Francisco County Transportation Authority
   location: San Francisco
-  description: Continued development of SF-CHAMP, the first and most well-regarded activity-based transportation model used in the United States at the time. Our team led the modeling for congestion pricing, bus rapid transit, land use development, and many other studies. Managed the team responsible for all agency technology, web properties, and graphics.
+  description: Fortsetzung der Entwicklung von SF-CHAMP, dem ersten und angesehensten aktivitätsbasierten Verkehrsmodell, das zu dieser Zeit in den Vereinigten Staaten verwendet wurde. Unser Team war federführend bei der Modellierung von Prognosen für die Fahrgastzahlen im Schienenverkehr, Staugebühren, Busschnellverkehr, Flächennutzungsentwicklung und vielen anderen Studien. Leitete das Team, das für die gesamte Technologie der Agentur, für Web-Eigenschaften und Grafiken verantwortlich war.
   project: SF-CHAMP
   skills:
-    - Web-based data visualization
-    - Activity-based model development and application
-    - Team management
-    - Government service and public outreach
+    - Entwicklung und Anwendung der Modelle
+    - Prognosen der Fahrgastzahlen im Nahverkehr
+    - Öffentlicher Dienst und Öffentlichkeitsarbeit
+    - Team Management
 
 - title: Principal Transportation Planner
   years: 2003-2007
   company: San Francisco County Transportation Authority
   location: San Francisco
-  description: Developed the SF-CHAMP travel model in support of the agency's decision-making needs.
+  description: Entwicklung des SF-CHAMP-Verkehrsnachfragemodelle zur Unterstützung des Entscheidungsfindungsbedarfs der Agentur.
   project: SF-CHAMP
   skills:
     - C++
     - Java
     - Activity-based model development and application
-    - Government service and public outreach
+    - Öffentlicher Dienst und Öffentlichkeitsarbeit
 
 - title: Software Developer
   years: 1999-2003
   company: Wind River Systems
   location: Alameda
   group: Engineering
-  description: Developed front-end desktop software for developer tooling of embedded systems.
+  description: Entwicklung von Front-End-Desktop-Software für Entwickler-Tools für eingebettete Systeme.
   project: Tornado
   skills:
     - Java
@@ -72,10 +72,10 @@
 
 - title: Transportation Engineer
   years: 1991-1999
-  company: Parsons Brinckerhoff (now WSP)
+  company: Parsons Brinckerhoff (heute WSP)
   location: Washington DC, Seattle, San Francisco
   group: Systems Analysis Group
-  description: Developed travel modeling software for many government clients across the globe.
+  description: Entwickelte Software für Verkehrsnachfragemodelle für zahlreiche Regierungskunden in aller Welt.
   project: CT-RAMP
   skills:
     - Java

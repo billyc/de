@@ -4,18 +4,18 @@ title: "Home"
 class: home
 ---
 
-# Hi there, I'm Billy Charlton
+# Hallo, ich bin Billy Charlton
 
 <div class="columns" markdown="1">
 
 <div class="intro" markdown="1">
-I am a researcher at [Technische Universität Berlin](https://vsp.tu-berlin.de) focusing on **data visualization** for the [MATSim transport simulation framework](https://matsim.org). MATSim is currently getting a lot of attention for its ability to simulate [COVID-19 virus propagation](https://covid-sim.info) as well as traffic scenarios for the impending doomsday arrival of robot cars.
+und ich bin Forscher an der [Technischen Universität Berlin](https://vsp.tu-berlin.de). Ich beschäftige mich mit **Datenvisualisierung** für das [MATSim](https://matsim.org) Verkehrssimulations-Framework.
 
-Before coming to Berlin, I was **Director of Data** for the [Puget Sound Regional Council](https://www.psrc.org) in Seattle, USA. Our 22-person team managed all travel forecasting and land use / growth management in support of the Seattle metropolitan region’s planning goals.
+Bevor ich nach Berlin kam, war ich **Direktor der Datenabteilung** beim [Puget Sound Regional Council](https://www.psrc.org) in Seattle, USA. Wir verwalteten alle Reiseprognosen und die Flächennutzung und Wachstumsmanagement zur Unterstützung der Planungsziele der Metropolregion Seattle.
 
-I received my Masters in Civil Engineering from the [Northwestern University Transportation Center](https://www.transportation.northwestern.edu/) and my undergraduate BSCE from [Cornell University](https://www.cee.cornell.edu/cee).
+Ich habe einen Master in Bauingenieurwesen am [Northwestern University Transportation Center](https://www.transportation.northwestern.edu/) und einen Bachelor-Abschluss an der [Cornell University](https://www.cee.cornell.edu/cee) erworben.
 
-I am always looking for new interesting projects! Email me or find me on Twitter at @billyinberlin.
+Ich bin immer auf der Suche nach neuen interessanten Projekten! Schreib mir bitte eine E-Mail oder finde mich auf Twitter unter @billyinberlin.
 
 </div>
 
@@ -30,6 +30,7 @@ I am always looking for new interesting projects! Email me or find me on Twitter
 {:.no-list}
 
 - <a href="mailto:{{ site.email }}">{{ site.email }}</a>
+
 </div>
 
 </div>
@@ -37,7 +38,7 @@ I am always looking for new interesting projects! Email me or find me on Twitter
 <!-- During my first year at UW, I received support from the [Fulbright program](https://en.wikipedia.org/wiki/Fulbright_Program). In 2013, I received my B.S. from [Hasso Plattner Institute](https://hpi.de/). I am a scholar of the [German National Academic Foundation](http://www.studienstiftung.de/). I have worked with the [Open Knowledge Foundation](http://www.okfn.org), [Google Research](https://ai.google/research/), and [Microsoft Research](https://www.microsoft.com/en-us/research/group/vibe/). Details are in my [CV]({{ "/cv/" | relative_url }}).
 -->
 
-## Featured Projects
+## Ausgewählte Projekte
 
 <div class="featured-projects">
   {% assign sorted_projects = site.data.projects | sort: 'highlight' %}
@@ -47,12 +48,12 @@ I am always looking for new interesting projects! Email me or find me on Twitter
     {% endif %}
   {% endfor %}
 </div>
-<a href="{{ "/projects/" | relative_url }}" class="button">
+<a href="{{ "/projekte/" | relative_url }}" class="button">
   <i class="fas fa-chevron-circle-right"></i>
-  Show More Projects
+  Zeig mehr Projekte
 </a>
 
-## Featured Publications
+## Ausgewählte Publikationen
 
 <div class="featured-publications">
   {% assign sorted_pubs = site.publications | sort: 'highlight' %}
@@ -68,12 +69,12 @@ I am always looking for new interesting projects! Email me or find me on Twitter
   {% endfor %}
 </div>
 
-<a href="{{ "/publications/" | relative_url }}" class="button">
+<a href="{{ "/publikationen/" | relative_url }}" class="button">
 <i class="fas fa-chevron-circle-right"></i>
-Show All Publications
+Zeig alle Publikationen
 </a>
 
-## Recent Blog Entries
+## Aktuelle Blog-Einträge
 
 <div class="featured-projects">
   {% assign top_posts = site.posts | sort: 'date' | reverse %}
@@ -83,13 +84,13 @@ Show All Publications
 </div>
 <a href="{{ "/blog/" | relative_url }}" class="button">
 <i class="fas fa-chevron-circle-right"></i>
-Show All Blog Entries
+Zeig alle Beiträge
 </a>
 
 <div class="news-travel" markdown="1">
 
 <div class="news" markdown="1">
-## Latest Personal News
+## Aktuelle Personalien
 
 <ul>
 {% for news in site.data.news limit:10 %}
@@ -100,7 +101,7 @@ Show All Blog Entries
 </div>
 
 <div class="travel" markdown="1">
-## Latest Travel & Conferences
+## Konferenzen und Reisen
 
 <table>
 <tbody>

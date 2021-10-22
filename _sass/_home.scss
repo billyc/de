@@ -24,7 +24,10 @@
       font-size: 0.9em;
       text-align: center;
 
-      picture, img {
+      max-width: 14rem;
+
+      picture,
+      img {
         width: 220px;
         height: 220px;
         border-radius: 6px;

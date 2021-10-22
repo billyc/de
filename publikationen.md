@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /publications/
-title: Publications
+permalink: /publikationen/
+title: Publikationen
 class: pubs
 ---
 
@@ -9,13 +9,15 @@ class: pubs
 
 # Publications
 
+_Alle Veröffentlichungen erfolgten in englischen Medien. Deswegen sind die folgenden Links nicht ins Deutsche übersetzt._
+
 <div id="facets" class="hidden">
   <div class="facet" id="venue_tags">
     <strong>Venue</strong>
     <ul></ul>
   </div>
   <div class="facet" id="authors">
-    <strong>Author</strong>
+    <strong>Autoren</strong>
     <ul></ul>
   </div>
   <div class="facet" id="tags">
@@ -23,7 +25,7 @@ class: pubs
     <ul></ul>
   </div>
   <div class="facet" id="type">
-    <strong>Type</strong>
+    <strong>Art</strong>
     <ul></ul>
   </div>
   <!-- <div class="facet" id="awards">
@@ -35,7 +37,7 @@ class: pubs
 
 <label id="only-highlight" class="hidden">
   <input type="checkbox" id="highlight">
-  Show only highlights
+  Zeig nur Highlights
 </label>
 
 <p id="clear-filters" class="hidden">

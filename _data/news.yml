@@ -1,6 +1,10 @@
-- message: "I moved to Berlin and started working at [TU Berlin](https://www.vsp.tu-berlin.de)"
+- message: "Unterrichtet Data Science mit R-lang"
+  date: 2021-03-25
+- message: "Deutsch B2 Prüfüng gemacht. Ich kann Deutsch!"
+  date: 2019-03-30
+- message: "Zog nach Berlin und begann an der [TU Berlin](https://www.vsp.tu-berlin.de) zu arbeiten"
   date: 2017-08-01
-- message: "Spent the summer in San Francisco building [Uber/Lyft data visualizations](/blog/2020/01/visualizing-uber-lyft.html) for SFCTA"
+- message: "Ich habe den Sommer in San Francisco verbracht und [Uber/Lyft-Datenvisualisierungen](/blog/2020/01/visualizing-uber-lyft.html) für die SFCTA erstellt."
   date: 2017-06-02
-- message: "Left my position as Director of Data at PSRC in Seattle"
+- message: "Letzte Tage als Direktor der Datenabteilung des PSRC in Seattle"
   date: 2016-11-01
