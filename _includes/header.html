@@ -1,7 +1,7 @@
 {% assign current = page.url | downcase | split: '/' %}
 <header class="page-header">
   <nav class="container">
-    <a class="site-title" href="{{ absolute_url }}/">{{ site.title }}</a>
+    <a class="site-title" href="{{ '/' | relative_url }}">{{ site.title }}</a>
 
     <a href="{{ '/projekte/' | relative_url }}" {% if current[1] == 'projekte' %}class="active"{% endif %}>Projekte</a>
     <a href="{{ '/publikationen/' | relative_url }}" {% if current[1] == 'publikationen' %}class="active"{% endif %}>Publikationen</a>
