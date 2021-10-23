@@ -37,7 +37,7 @@
   image: avoev-logo.png
   description: "Website und Datenvisualisierungen zur Erkundung des Potenzials, ländliche Transitfahrten mit gemeinsamen autonomen Taxis zu bedienen"
 
-- title: "TNCs Today: Uber und Lyft in San Francisco"
+- title: "Uber und Lyft in San Francisco"
   url: https://www.sfcta.org/projects/tncs-today
   code: https://github.com/sfcta/tncstoday
   demo: https://tncstoday.sfcta.org

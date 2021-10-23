@@ -2,67 +2,75 @@
 layout: cv
 permalink: /cv/
 title: CV
+tagline: Data Visualization Researcher at Technische Universität Berlin
+researchArea: "Ich entwickle Plattformen und Technologien, die es Analysten, Entscheidungsträgern und der Öffentlichkeit ermöglichen, zu sehen und zu kommunizieren, was ihre Verkehrsdaten ihnen sagen wollen. Ich bringe zwei Jahrzehnte Erfahrung in der Leitung technischer Teams zur Unterstützung des Gemeinwohls mit."
+
 ---
 
 <section class="container">
 
-<h1><a href="{{ absolute_url }}/">Billy Charlton</a></h1>
+<div style="display: flex; flex-direction: row;">
+  <div style="flex: 1;">
+    <h1><a href="{{ absolute_url }}/">Billy Charlton</a></h1>
 
-<small class="live-link">Last updated in 
-  <time datetime="{{ site.time }}">{{ site.time | date: '%B %Y'}}</time>. 
-  Get the latest version at <a href="{{ '/cv' | absolute_url }}">billyc.github.io/cv</a>.
-</small>
+    <small class="live-link">Last updated in
+      <time datetime="{{ site.time }}">{{ site.time | date: '%B %Y'}}</time>.
+      Get the latest version at <a href="{{ '/cv' | absolute_url }}">billyc.github.io/cv</a>.
+    </small>
 
-<div class="header-columns">
-  <div>
-    <p>
-      Data Visualization Researcher at Technische Universität Berlin<br/>
+    <div>
+      <p>{{ page.tagline }}</p>
+      <p>
+        <b>Email</b> <a href="mailto:charlton@tu-berlin.de">charlton@tu-berlin.de</a></b> &nbsp; <b>Website</b> <a href="{{ absolute_url }}/">billyc.github.io</a><br/>
+        <b>Nationalität</b> USA &nbsp; <b>Geburtstag</b> 26.12.1969 &nbsp; <b>Familienstand</b> Single</br>
+      </p>
     </p>
   </div>
-  <div>
-    <p class="right-align">
-      <a href="{{ absolute_url }}/">https://billyc.github.io</a><br/>
-      <a href="mailto:charlton@tu-berlin.de">charlton@tu-berlin.de</a><br/>
-      <a href="https://twitter.com/billyinberlin">@billyinberlin</a>
+
+  </div>
+
+<div class="header-columns">
+  <div style="width: 100%; text-align: right;">
+    <picture>
+      <source srcset='/images/profi-headshot.jpg' type='image/jpg' />
+      <img style="margin-top: 2.5rem; width: 10rem"
+        src='/images/profi-headshot.jpg'
+        alt='Billy Charlton'/>
+    </picture>
+      <p class="right-align">
     </p>
   </div>
 </div>
+</div>
 
+<hr/>
 
-<h2>Research Area</h2>
+<h2>Forschungsbereich</h2>
 
 <p>
-To support informed decisionmaking and advance the art of data visualization in the field of transportation, I develop platforms and technologies that let people see and communicate what their data is trying to tell them. 
-<!-- I combine methods from <strong>visualization</strong>, <strong>data management</strong>, <strong>programming languages</strong>, and <strong>human-computer interaction</strong> to enable effective methods for data analysis and communication. My systems have won awards at premier academic venues, and are used by journalists, data enthusiasts, developers, educators, and the data science community.
--->
+{{ page.researchArea}}
 </p>
 
 
-<h2>Positions</h2>
+<h2>Berufserfahrung</h2>
 
 {% for pos in site.data.positions %}
 <article>
   <div class="date-container">
     <span class="date">{{ pos.years | replace: "-", "–" }}</span>
-    <strong class="fill">{{ pos.title }}{% if pos.company %} at {{pos.company}}{% endif %}</strong>
+    <strong class="fill">{{ pos.title }}{% if pos.company %}, {{pos.company}}{% endif %}</strong>
     <span class="right">{{ pos.location }}</span>
   </div>
-  <!-- <p>
-    {% if pos.mentors %}
-      Mentor{% if pos.mentors.size > 1 %}s{% endif %}: {% for mentor in pos.mentors %}
-        {% include person person=mentor %}{% unless forloop.last %}, {% endunless %}
-      {% endfor %}<br/>
-    {% endif %}
-    {{ pos.description | markdownify | remove: '<p>' | remove: '</p>' }}
-    {% if pos.skills %}
-    <small class="muted">[{% for skill in pos.skills %}{{ skill }}{% unless forloop.last %}, {% endunless %}{% endfor %}]</small>
-    {% endif %}
-  </p> -->
+  <p>
+    {% for desc in pos.description %}
+      <span class="muted" style="line-height: 1.2rem">{{ desc | markdownify | remove: '<p>' | remove: '</p>' }}</span>{% unless forloop.last %}<br/>{% endunless %}
+    {% endfor %}
+  </p>
 </article>
 {% endfor %}
 
 
-<h2>Education</h2>
+<h2>Bildung</h2>
 
 {% for ed in site.data.education %}
 <article>
@@ -97,11 +105,13 @@ To support informed decisionmaking and advance the art of data visualization in 
 
 -->
 
-<h2>Publications <a href="{{ '/publications/' | absolute_url }}">[Interactive Version]</a></h2>
+<h2>Publikationen</h2>
 
 {% assign sorted_pubs = site.publications | reverse %}
 
-{% assign types = "Conference|Journal|Book Chapter|Demo|Workshop|Thesis" | split: "|" %}
+<!-- {% assign types = "Conference|Journal|Book Chapter|Demo|Workshop|Thesis" | split: "|" %} -->
+
+{% assign types = "Konferenz|Journal" | split: "|" %}
 {% for type in types %}
   {% assign counter = 1 %}
   {% for pub in sorted_pubs %}
@@ -166,6 +176,7 @@ To support informed decisionmaking and advance the art of data visualization in 
 {% endfor %}
 
 
+<!--
 <h2>Talks  <a href="{{ '/talks/' | absolute_url }}">[Interactive Version]</a></h2>
 
 {% assign talktitles = site.data.talks | group_by:"title" %}
@@ -183,8 +194,9 @@ To support informed decisionmaking and advance the art of data visualization in 
 </article>
 {% endfor %}
 
+-->
 
-<h2>Teaching Experience</h2>
+<h2>Unterricht</h2>
 
 {% for teach in site.data.teaching %}
 <article>
@@ -234,18 +246,22 @@ To support informed decisionmaking and advance the art of data visualization in 
 {% endfor %}
 -->
 
-<h2>Service</h2>
+<h2>Dienst</h2>
 
-<p>
-  Reviewer for Transportation Research Board ADB40/AEP50.
-  Program committee for 
-  Session chair at TCHI 2019, VIS 2019. Program commitee at VIS 2020. 
-  <br/>
-  Member of the <a href="https://frictionlessdata.io/">Frictionless Data</a> working group that aims to submit a specification to the <a href="https://www.ietf.org/">IETF</a>.
-</p>
+{% for service in site.data.service %}
+  <div class="date-container">
+    <span class="date">{{ service.year | replace: "-", "–" }}</span>
+    <h3>{{ service.title }}</h3>
+    <span class="right">{{ service.location }}</span>
+  </div>
+  <p>
+    <span class="muted">
+      {{ service.text }}
+    </span>
+  </p>
+{% endfor %}
 
-
-<h2>References</h2>
+<h2>Referenzen</h2>
 
 <div class="refs">
   <p>
@@ -259,7 +275,7 @@ To support informed decisionmaking and advance the art of data visualization in 
     <strong>Joseph Castiglione</strong><br/>
     Deputy Director, Transportation and Data Analysis<br/>
     <i>San Francisco County Transportation Authority</i><br/>
-    <a href="https://www.sfcta.org/contact-us">www.sfcta.org/</a>
+    <a href="https://www.sfcta.org/contact-us">www.sfcta.org</a>
   </p>
 
   <p>

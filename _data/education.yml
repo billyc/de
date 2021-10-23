@@ -1,14 +1,25 @@
+- university: Technische Universität Berlin
+  years: 2017 -
+  degree: Erwarteter Doktortitel (2022)
+  location: Berlin, Deutschland
+  description:
+    - Beraten durch Prof. Kai Nagel
+    - "Thesis: Web-basierte Datenvisualisierung für groß angelegte Verkehrsmikrosimulationen"
 - university: Northwestern University
   years: 1996
   degree: M.S. in Civil Engineering
-  location: Evanston, IL
+  location: Evanston, IL, USA
   description:
-    - Advised by **Joseph Schofer** and **Frank Koppelman**.
-    - 'Thesis: "Familiar Driver Response to In-Vehicle Route Guidance Systems"'
+    - Beraten durch **Joseph Schofer** und **Frank Koppelman**.
+    - "Thesis: Reaktion der Autofahrer auf bordeigene Routenführungssysteme"
 - university: Cornell University
   years: 1991
   degree: B.S. in Civil Engineering
-  location: Ithaca, NY
+  location: Ithaca, NY, USA
   description:
     - Schwerpunkt an Transportation Engineering
     - Crandall Award für Schreiben im Ingenieurwesen
+- university: Springbrook High School
+  years: 1987
+  degree: Abschluß
+  location: Silver Spring, MD, USA

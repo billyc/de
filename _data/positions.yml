@@ -8,10 +8,10 @@
   description: Entwicklung von webbasierten Datenvisualisierungswerkzeugen für das agentenbasierte Verkehrssimulationsprogramm MATSim.
   project: MATSim, EpiSim, SimWrapper
   skills:
-    - Scalable Visualization
+    - Visualisierung großer Datenmengen
     - JavaScript, Python, R, Java
-    - ThreeJS, Deck.gl
-    - User Interface Design
+    - "3D: Three.js, Deck.gl"
+    - User Interface
 
 - title: Direktor der Datenabteilung
   years: 2013-2017
@@ -21,21 +21,21 @@
   description: Leitete ein 22-köpfiges Team, das für alle technischen Details der Reisemodellierung, Flächennutzungsmodellierung und geografischen Informationssysteme (GIS) zur Unterstützung der zukünftigen Wachstumspläne der Metropolregion Seattle verantwortlich war..
   project: SoundCast, UrbanSim
   skills:
-    - Managing team of 22 to time and budget
-    - Activity-based travel model development
-    - Government service and public outreach
+    - Leitung eines Teams von 22 Mitarbeitern unter Einhaltung von Zeit und Budget
+    - Entwicklung des Activity-basierten Verkehrsnachfragemodells
+    - Öffentlicher Dienst und Öffentlichkeitsarbeit
 
 - title: Gründer and CEO
   years: 2011-present
   company: Because LLC
   location: San Francisco, Seattle
-  description: Private Boutique-Beratung für Privatunternehmen und Regierungsbehörden, die Fachwissen in den Bereichen webbasierte Datenvisualisierung, Reisebedarfsmodellierung und Softwareentwicklung benötigen. Zu den Kunden gehören Sidewalk Labs, San Francisco County Transportation Authority, National Association of City Transportation Officials, WSP Inc. und andere.
+  description: Private Beratung für Privatunternehmen und Regierungsbehörden, die Fachwissen in den Bereichen webbasierte Datenvisualisierung, Reisebedarfsmodellierung und Softwareentwicklung benötigen. Zu den Kunden gehören Sidewalk Labs, San Francisco County Transportation Authority, National Association of City Transportation Officials, WSP Inc. und andere.
   project: TNCs Today, MyStreetSF
   skills:
     - Webbasierte Datenvisualisierung
     - Javascript, PostGIS
 
-- title: Deputy Director for Technology Services
+- title: Deputy Director für technische Dienstleistungen
   years: 2007-2011
   company: San Francisco County Transportation Authority
   location: San Francisco
@@ -51,12 +51,12 @@
   years: 2003-2007
   company: San Francisco County Transportation Authority
   location: San Francisco
-  description: Entwicklung des SF-CHAMP-Verkehrsnachfragemodelle zur Unterstützung des Entscheidungsfindungsbedarfs der Agentur.
+  description: Entwicklung des SF-CHAMP-Verkehrsnachfragemodell zur Unterstützung des Entscheidungsfindungsbedarfs der Agentur.
   project: SF-CHAMP
   skills:
     - C++
     - Java
-    - Activity-based model development and application
+    - Activitäts-basierte Modellentwicklung und -anwendung
     - Öffentlicher Dienst und Öffentlichkeitsarbeit
 
 - title: Software Developer

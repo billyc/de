@@ -3,17 +3,17 @@
   role: Instructor
   students: 60 students
   year: 2020
-  description: Developed new 3-credit course for VSP department, focusing on R for data science, including exploratory data analysis, data visualization, and online publication of results.
+  description: Entwicklung eines neuen 3-Kredit-Kurses für die VSP-Abteilung mit Schwerpunkt auf R für Datenwissenschaft, einschließlich explorativer Datenanalyse, Datenvisualisierung und Online-Veröffentlichung von Ergebnissen.
 
 - title: "Programming with Python"
   role: Teacher
   year: 2016
   students: 20 participants
-  location: UW eScience Institute
-  description: One-day workshop for scientists as part of Software Carpentry workshop series.
+  location: Univ. Washington, eScience Institute
+  description: Eintägiger Workshop für Wissenschaftler im Rahmen der Workshop-Reihe "Software Carpentry".
 
 - title: "Version Control with Git"
   year: 2016
   students: 50 participants
   location: TRB Applications Conference, Denver
-  description: Developed and led afternoon workshop on collaboration with Git, based on Software Carpentry workshop series.
+  description: Entwicklung und Leitung eines Workshops zur Zusammenarbeit mit Git, basierend auf der Workshop-Reihe "Software Carpentry".

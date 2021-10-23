@@ -18,5 +18,4 @@ tags:
 venue_tags: Transportation Letters
 venue: Transportation Letters 3, no. 1
 year: 2011
-highlight: 3
 ---

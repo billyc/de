@@ -7,7 +7,7 @@ authors:
   - Kai Nagel
 title: "An efficient approach to create agent-based transport simulation scenarios based on ubiquitous Big Data and a new, aspatial activity-scheduling model"
 type:
-  - Conference
+  - Konferenz
 doi: https://doi.org/10.1016/j.trpro.2021.01.073
 short_doi: 10.1016/j.trpro.2021.01.073
 pdf: https://www.sciencedirect.com/science/article/pii/S2352146521001198/pdf

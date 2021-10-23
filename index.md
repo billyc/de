@@ -21,9 +21,9 @@ Ich bin immer auf der Suche nach neuen interessanten Projekten! Schreib mir bitt
 
 <div class="me" markdown="1">
   <picture>
-    <source srcset='/images/headshot3.jpg' type='image/jpg' />
+    <source srcset='/images/profi-headshot.jpg' type='image/jpg' />
     <img
-      src='/images/headshot3.jpg'
+      src='/images/profi-headshot.jpg'
       alt='Billy Charlton'/>
   </picture>
 
@@ -55,6 +55,10 @@ Ich bin immer auf der Suche nach neuen interessanten Projekten! Schreib mir bitt
 
 ## Ausgewählte Publikationen
 
+<div style="margin-top: -1.2rem; margin-bottom: 1rem;">
+<i>Alle Publikationen sind auf Englisch.</i>
+</div>
+
 <div class="featured-publications">
   {% assign sorted_pubs = site.publications | sort: 'highlight' %}
   {% for pub in sorted_pubs %}
@@ -75,6 +79,10 @@ Zeig alle Publikationen
 </a>
 
 ## Aktuelle Blog-Einträge
+
+<div style="margin-top: -1.2rem; margin-bottom: 1rem;">
+<i>Der Blog ist auf Englisch.</i>
+</div>
 
 <div class="featured-projects">
   {% assign top_posts = site.posts | sort: 'date' | reverse %}

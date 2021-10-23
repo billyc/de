@@ -125,6 +125,7 @@
   .featured-publications {
     font-size: 0.95em;
     margin-bottom: 1.5em;
+    line-height: 1.2rem;
 
     .publication {
       margin-bottom: 0.7em;
@@ -182,6 +183,7 @@
     padding-left: $spacing-unit;
 
     .date {
+      vertical-align: top;
       white-space: nowrap;
       color: $grey-color;
       padding-right: 1em;
