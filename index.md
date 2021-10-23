@@ -21,9 +21,9 @@ Ich bin immer auf der Suche nach neuen interessanten Projekten! Schreib mir bitt
 
 <div class="me" markdown="1">
   <picture>
-    <source srcset='/images/profi-headshot.jpg' type='image/jpg' />
+    <source srcset='{{ "/images/profi-headshot.jpg" | relative_url }}' type='image/jpg' />
     <img
-      src='/images/profi-headshot.jpg'
+      src='{{ "/images/profi-headshot.jpg" | relative_url }}'
       alt='Billy Charlton'/>
   </picture>
 
