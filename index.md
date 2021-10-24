@@ -11,11 +11,11 @@ class: home
 <div class="intro" markdown="1">
 und ich bin Forscher an der [Technischen Universität Berlin](https://vsp.tu-berlin.de). Ich beschäftige mich mit **Datenvisualisierung** für das [MATSim](https://matsim.org) Verkehrssimulations-Framework.
 
-Bevor ich nach Berlin kam, war ich **Direktor der Datenabteilung** beim [Puget Sound Regional Council](https://www.psrc.org) in Seattle, USA. Wir verwalteten alle Reiseprognosen und die Flächennutzung und Wachstumsmanagement zur Unterstützung der Planungsziele der Metropolregion Seattle.
+Bevor ich nach Berlin kam, war ich **Direktor der Datenabteilung** beim [Puget Sound Regional Council](https://www.psrc.org) in Seattle, USA. Wir verwalteten alle Reiseprognosen und die Flächennutzung sowie Wachstumsmanagement zur Unterstützung der Planungsziele der Metropolregion Seattle.
 
 Ich habe einen Master in Bauingenieurwesen am [Northwestern University Transportation Center](https://www.transportation.northwestern.edu/) und einen Bachelor-Abschluss an der [Cornell University](https://www.cee.cornell.edu/cee) erworben.
 
-Ich bin immer auf der Suche nach neuen interessanten Projekten! Schreib mir bitte eine E-Mail oder finde mich auf Twitter unter @billyinberlin.
+Ich bin immer auf der Suche nach neuen interessanten Projekten! Schreibt mir bitte eine E-Mail oder findet mich auf Twitter unter @billyinberlin.
 
 </div>
 

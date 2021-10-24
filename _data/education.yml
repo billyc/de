@@ -1,9 +1,9 @@
 - university: Technische Universität Berlin
   years: 2017 -
-  degree: Erwarteter Doktortitel (2022)
+  degree: Doktortitel (voraussichtlich 2022)
   location: Berlin, Deutschland
   description:
-    - Beraten durch Prof. Kai Nagel
+    - "Doktorvater: Prof. Kai Nagel"
     - "Thesis: Web-basierte Datenvisualisierung für groß angelegte Verkehrsmikrosimulationen"
 - university: Northwestern University
   years: 1996
@@ -17,7 +17,7 @@
   degree: B.S. in Civil Engineering
   location: Ithaca, NY, USA
   description:
-    - Schwerpunkt an Transportation Engineering
+    - "Schwerpunkt: Transportation Engineering"
     - Crandall Award für Schreiben im Ingenieurwesen
 - university: Springbrook High School
   years: 1987

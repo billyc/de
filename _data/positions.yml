@@ -18,7 +18,7 @@
   company: Puget Sound Regional Council
   group: Data Department
   location: Seattle
-  description: Leitete ein 22-köpfiges Team, das für alle technischen Details der Reisemodellierung, Flächennutzungsmodellierung und geografischen Informationssysteme (GIS) zur Unterstützung der zukünftigen Wachstumspläne der Metropolregion Seattle verantwortlich war..
+  description: Leitung eines 22-köpfigen Teams, das für alle technischen Details der Verkehrsmodellierung, Flächennutzungsmodellierung und geografischen Informationssystemen (GIS) zur Unterstützung der zukünftigen Wachstumspläne der Metropolregion Seattle verantwortlich war..
   project: SoundCast, UrbanSim
   skills:
     - Leitung eines Teams von 22 Mitarbeitern unter Einhaltung von Zeit und Budget
@@ -29,17 +29,17 @@
   years: 2011-present
   company: Because LLC
   location: San Francisco, Seattle
-  description: Private Beratung für Privatunternehmen und Regierungsbehörden, die Fachwissen in den Bereichen webbasierte Datenvisualisierung, Reisebedarfsmodellierung und Softwareentwicklung benötigen. Zu den Kunden gehören Sidewalk Labs, San Francisco County Transportation Authority, National Association of City Transportation Officials, WSP Inc. und andere.
+  description: Private Beratung für Privatunternehmen und Regierungsbehörden, die Fachwissen in den Bereichen webbasierte Datenvisualisierung, Verkehrsnachfragemodellierung und Softwareentwicklung benötigen. Zu den Kunden gehören Sidewalk Labs, San Francisco County Transportation Authority, National Association of City Transportation Officials, WSP Inc. und andere.
   project: TNCs Today, MyStreetSF
   skills:
     - Webbasierte Datenvisualisierung
     - Javascript, PostGIS
 
-- title: Deputy Director für technische Dienstleistungen
+- title: Stellv. Direktor für technische Dienstleistungen
   years: 2007-2011
   company: San Francisco County Transportation Authority
   location: San Francisco
-  description: Fortsetzung der Entwicklung von SF-CHAMP, dem ersten und angesehensten aktivitätsbasierten Verkehrsmodell, das zu dieser Zeit in den Vereinigten Staaten verwendet wurde. Unser Team war federführend bei der Modellierung von Prognosen für die Fahrgastzahlen im Schienenverkehr, Staugebühren, Busschnellverkehr, Flächennutzungsentwicklung und vielen anderen Studien. Leitete das Team, das für die gesamte Technologie der Agentur, für Web-Eigenschaften und Grafiken verantwortlich war.
+  description: Fortsetzung der Entwicklung von SF-CHAMP, dem ersten und angesehensten aktivitätsbasierten Verkehrsmodell, das zu dieser Zeit in den Vereinigten Staaten verwendet wurde. Unser Team war federführend bei der Modellierung von Prognosen für die Fahrgastzahlen im Schienenverkehr, Staugebühren, Busschnellverkehr, Flächennutzungsentwicklung und vielen anderen Studien. Dort hatte ich die Leitung des Teams inne, das für die gesamte Technologie der Agentur, für Web-Eigenschaften und Grafiken verantwortlich war.
   project: SF-CHAMP
   skills:
     - Entwicklung und Anwendung der Modelle
@@ -75,7 +75,7 @@
   company: Parsons Brinckerhoff (heute WSP)
   location: Washington DC, Seattle, San Francisco
   group: Systems Analysis Group
-  description: Entwickelte Software für Verkehrsnachfragemodelle für zahlreiche Regierungskunden in aller Welt.
+  description: Softwareentwickung für Verkehrsnachfragemodelle für zahlreiche öffentliche Kunden in aller Welt.
   project: CT-RAMP
   skills:
     - Java
