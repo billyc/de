@@ -1,11 +1,10 @@
 - title: SimWrapper
-  url: https://simwrapper.github.io/docs
   demo: https://vsp.berlin/simwrapper
   code: https://github.com/simwrapper/simwrapper
-  paper: https://svn.vsp.tu-berlin.de/repos/public-svn/publications/vspwp/2020/20-08/CharltonLaudan2020WebBasedVisualization-accepted.pdf
-  image: xy-hexagons.png
-  description: "Ich habe die Datenvisualisierungsplattform _SimWrapper_ entwickelt, die Ergebnisse von MATSim untersucht."
-  highlight: 2
+  paper: https://svn.vsp.tu-berlin.de/repos/public-svn/publications/vspwp/2022/22-21/CharltonSana2022SimWrapper.pdf
+  image: simwrapper.jpg
+  description: 'Ich habe die Datenvisualisierungsplattform _SimWrapper_ entwickelt, die Ergebnissen von MATSim untersucht.'
+  highlight: 1
 
 - title: COVID-Sim
   url: https://covid-sim.info
@@ -13,36 +12,36 @@
   demo: https://covid-sim.info/v3?day=17
   paper: https://www.medrxiv.org/content/10.1101/2020.07.22.20160093v2.full.pdf
   image: covid-sim.png
-  description: "Webseite und interaktive Visualisierungen der COVID-19 Virusausbreitung in Berlin, einschließlich Dashboards zum Vergleich der Ergebnisse von Tausenden von EpiSim-Simulationen."
-  highlight: 1
+  description: 'Webseite und interaktive Visualisierungen der COVID-19 Virusausbreitung in Berlin, einschließlich Dashboards zum Vergleich der Ergebnisse von Tausenden von EpiSim-Simulationen.'
+  highlight: 2
 
 - title: Zephyr
   url: https://zephyrtransport.org
   code: https://github.com/ZephyrTransport
   image: zephyr.png
-  description: "Gründungsmitglied der Zephyr Transport Foundation, die sich für die Verbesserung von Software für Verkehrsnachfragemodellen einsetzt"
+  description: 'Gründungsmitglied der Zephyr Transport Foundation, die sich für die Verbesserung von Software für Verkehrsnachfragemodellen einsetzt'
 
-- title: "PAVE: Potentiale automatisierter Verkehrssysteme"
+- title: 'PAVE: Potentiale automatisierter Verkehrssysteme'
   url: https://vsp.berlin/pave/
   code: https://github.com/matsim-vsp/pave-website
   demo: https://vsp.berlin/pave/v/vehicle-animation/1-robotaxi/viz-vehicles-1.yaml
   image: pave-animation.png
-  description: "Website und Datenvisualisierungen zur Erkundung des Potenzials, Transitfahrten über Land mit gemeinsamen autonomen Taxis zu bedienen"
+  description: 'Website und Datenvisualisierungen zur Erkundung des Potenzials, Transitfahrten über Land mit gemeinsamen autonomen Taxis zu bedienen'
   highlight: 5
 
-- title: "AVÖV: Automatisierter vernetzter öffentlicher Verkehr"
+- title: 'AVÖV: Automatisierter vernetzter öffentlicher Verkehr'
   url: https://vsp.berlin/avoev
   code: https://github.com/matsim-vsp/avoev
   demo: https://vsp.berlin/avoev/v/vehicle-animation/vulkaneifel/output-Vu-DRT-2/viz-vehicles.yml
   image: avoev-logo.png
-  description: "Website und Datenvisualisierungen zur Erkundung des Potenzials, Transitfahrten über Land mit gemeinsamen autonomen Taxis zu bedienen"
+  description: 'Website und Datenvisualisierungen zur Erkundung des Potenzials, Transitfahrten über Land mit gemeinsamen autonomen Taxis zu bedienen'
 
-- title: "Uber und Lyft in San Francisco"
+- title: 'Uber und Lyft in San Francisco'
   url: https://www.sfcta.org/projects/tncs-today
   code: https://github.com/sfcta/tncstoday
   demo: https://tncstoday.sfcta.org
   image: tncs-thumbnail.jpg
-  description: "Visualisierung von Uber- und Lyft-Fahrten in San Francisco, Teil eines größeren Projekts zum Verständnis der Auswirkungen von Shared Mobility auf den Straßen von San Francisco."
+  description: 'Visualisierung von Uber- und Lyft-Fahrten in San Francisco, Teil eines größeren Projekts zum Verständnis der Auswirkungen von Shared Mobility auf den Straßen von San Francisco.'
   highlight: 4
 
 - title: SNF Schweizer Verkehrsnachfragemodell
@@ -51,18 +50,18 @@
   code: https://gitlab.tubit.tu-berlin.de/vsp/snf-big-data
   paper: https://svn.vsp.tu-berlin.de/repos/public-svn/publications/vspwp/2020/20-11/ZiemkeEtAl2020ActitoppMatsim.pdf
   image: snf-screenshot.png
-  description: "Demo für die Erstellung eines großangelegten Verkehrssimulationsmodells auf Grundlage von Mobiltelefon- und Volkszählungsdaten"
+  description: 'Demo für die Erstellung eines großangelegten Verkehrssimulationsmodells auf Grundlage von Mobiltelefon- und Volkszählungsdaten'
 
-- title: "MyStreet SF"
+- title: 'MyStreet SF'
   url: https://mystreetsf.sfcta.org/#filter=7&zoom=13.25&center=37.765,-122.438
   code: https://github.com/sfcta/MyStreetSF-2.0
   image: mystreet-grid.jpg
-  description: "Erstellung einer interaktiven Karte und Projektwebsite für alle von der SFCTA finanzierten Projekte und Studien."
+  description: 'Erstellung einer interaktiven Karte und Projektwebsite für alle von der SFCTA finanzierten Projekte und Studien.'
 
-- title: "OMX"
+- title: 'OMX'
   url: https://github.com/osPlanning/omx
   image: omx.jpg
-  description: "Leitung eines Ausschusses, der einen offenen Standard für den Austausch von Transportmatrixdaten entwickelte. Entwicklung der Python-Implementierung."
+  description: 'Leitung eines Ausschusses, der einen offenen Standard für den Austausch von Transportmatrixdaten entwickelte. Entwicklung der Python-Implementierung.'
 # - title: "EN/DE/TR Keyboard"
 #   url: https://billyc.github.io/en-de-tr-keyboard/
 #   image: keyboard.png

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Home"
+title: 'Home'
 class: home
 ---
 
@@ -56,7 +56,7 @@ Ich bin immer auf der Suche nach neuen interessanten Projekten! Schreibt mir bit
 ## Ausgewählte Publikationen
 
 <div style="margin-top: -1.2rem; margin-bottom: 1rem;">
-<i>Alle Publikationen sind auf Englisch.</i>
+<i>Alle Publikationen auf Englisch.</i>
 </div>
 
 <div class="featured-publications">
