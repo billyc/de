@@ -10,7 +10,7 @@ researchArea: "Ich entwickle Plattformen und Technologien, die es Analysten, Ent
 
 <div style="display: flex; flex-direction: row;">
   <div style="flex: 1;">
-    <h1><a href="{{ absolute_url }}/">Billy Charlton</a></h1>
+    <h1><a href="{{ absolute_url }}/">Dr. William (Billy) Charlton</a></h1>
 
     <!-- <small class="live-link">Last updated in
       <time datetime="{{ site.time }}">{{ site.time | date: '%B %Y'}}</time>.
@@ -21,7 +21,7 @@ researchArea: "Ich entwickle Plattformen und Technologien, die es Analysten, Ent
       <p>Forschung im Bereich Datenvisualisierung an der<br/>Technischen Universität Berlin</p>
       <p>
         <b>Email</b> <a href="mailto:charlton@tu-berlin.de">charlton@tu-berlin.de</a></b> &nbsp; <b>Website</b> <a href="{{ absolute_url }}/">billyc.github.io</a><br/>
-        <!-- <b>Nationalität</b> USA &nbsp; <b>Geburtstag</b> 26.12.1969 &nbsp; <b>Familienstand</b> Single</br> -->
+        <b>Nationalität</b> USA &nbsp; <b>Geburtstag</b> 26.12.1969 &nbsp; <b>Familienstand</b> Single</br>
       </p>
     </p>
   </div>
@@ -33,8 +33,8 @@ researchArea: "Ich entwickle Plattformen und Technologien, die es Analysten, Ent
     <picture>
       <source srcset='{{ "/images/profi-headshot.jpg" | relative_url }}' type='image/jpg' />
       <img style="margin-top: 2.5rem; width: 10rem"
-        src='{{ "/images/profi-headshot.jpg" | relative_url }}'
-        alt='Billy Charlton'/>
+        src="{{ "/de/images/profi-headshot.jpg" | relative_url }}"
+        alt="Billy Charlton"/>
     </picture>
       <p class="right-align">
     </p>
@@ -109,8 +109,7 @@ researchArea: "Ich entwickle Plattformen und Technologien, die es Analysten, Ent
 {% assign sorted_pubs = site.publications | reverse %}
 
 <!-- {% assign types = "Conference|Journal|Book Chapter|Demo|Workshop|Thesis" | split: "|" %} -->
-
-{% assign types = "Konferenz|Journal" | split: "|" %}
+{% assign types = "Dissertation|Konferenz|Journal" | split: "|" %}
 {% for type in types %}
   {% assign counter = 1 %}
   {% for pub in sorted_pubs %}
@@ -267,7 +266,7 @@ researchArea: "Ich entwickle Plattformen und Technologien, die es Analysten, Ent
 <tr><td>Deutsch:</td><td>B2 Zertifikat (2019)</td></tr>
 </table>
 
-<h2>Referenzen</h2>
+<!-- <h2>Referenzen</h2>
 
 <div class="refs">
   <p>
@@ -298,6 +297,6 @@ researchArea: "Ich entwickle Plattformen und Technologien, die es Analysten, Ent
     <a href="https://www.psrc.org/staff/josh-brown">psrc.org/staff/josh-brown</a>
   </p>
 
-</div>
+</div> -->
 
 </section>

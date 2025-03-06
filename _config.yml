@@ -3,9 +3,9 @@ title: Billy Charlton
 email: charlton@vsp.tu-berlin.de
 description: > # this means to ignore newlines until "baseurl:"
   Data Scientist an der TU-Berlin. Ich entwickle interaktive Datenvisualisierungs- und Analysetools für die Modellierung großer Systeme.
-baseurl: "/de" # the subpath of your site, e.g. /blog
-url: "https://billyc.github.io" # the base hostname & protocol for your site
-production_url: "https://billyc.github.io"
+baseurl: '/de' # "/de" # the subpath of your site, e.g. /blog
+url: 'https://billyc.github.io/de' # the base hostname & protocol for your site
+production_url: 'https://billyc.github.io/de'
 github_username: billyc
 permalink: /blog/:year/:month/:title.html
 

@@ -1,23 +1,24 @@
 - university: Technische Universität Berlin
-  years: 2017 -
-  degree: Doktortitel (voraussichtlich 2022)
+  years: 2023
+  degree: Doktortitel
   location: Berlin, Deutschland
   description:
-    - "Doktorvater: Prof. Kai Nagel"
-    - "Thesis: Web-basierte Datenvisualisierung für groß angelegte Verkehrsmikrosimulationen"
+    - 'Doktorvater: Prof. Kai Nagel'
+    - 'Thesis: Web-basierte Datenvisualisierung für groß angelegte Verkehrsmikrosimulationen'
+    - 'Duration: Aug.2017 - Okt.2023.'
 - university: Northwestern University
   years: 1996
   degree: M.S. in Civil Engineering
   location: Evanston, IL, USA
   description:
     - Beraten durch **Prof. Joseph Schofer** und **Prof. Frank Koppelman**.
-    - "Thesis: Reaktion der Autofahrer auf bordeigene Routenführungssysteme"
+    - 'Thesis: Reaktion der Autofahrer auf bordeigene Routenführungssysteme'
 - university: Cornell University
   years: 1991
   degree: B.S. in Civil Engineering
   location: Ithaca, NY, USA
   description:
-    - "Schwerpunkt: Transportation Engineering"
+    - 'Schwerpunkt: Transportation Engineering'
     - Crandall Award für Schreiben im Ingenieurwesen
 - university: Springbrook High School
   years: 1987
